@@ -1,0 +1,17 @@
+C:\Users\User\Source\Repos\JuliaVan28\YuliiaVanchytska.RobotChallenge.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Source\Repos\JuliaVan28\YuliiaVanchytska.RobotChallenge.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Source\Repos\JuliaVan28\YuliiaVanchytska.RobotChallenge.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Source\Repos\JuliaVan28\YuliiaVanchytska.RobotChallenge.Test\bin\Debug\YuliiaVanchytska.RobotChallenge.Test.dll
+C:\Users\User\Source\Repos\JuliaVan28\YuliiaVanchytska.RobotChallenge.Test\bin\Debug\YuliiaVanchytska.RobotChallenge.Test.pdb
+C:\Users\User\Source\Repos\JuliaVan28\YuliiaVanchytska.RobotChallenge.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\Source\Repos\JuliaVan28\YuliiaVanchytska.RobotChallenge.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\Source\Repos\JuliaVan28\YuliiaVanchytska.RobotChallenge.Test\bin\Debug\Robot.Common.dll
+C:\Users\User\Source\Repos\JuliaVan28\YuliiaVanchytska.RobotChallenge.Test\bin\Debug\YuliiaVanchytska.RobotChallenge.dll
+C:\Users\User\Source\Repos\JuliaVan28\YuliiaVanchytska.RobotChallenge.Test\bin\Debug\YuliiaVanchytska.RobotChallenge.pdb
+C:\Users\User\Source\Repos\JuliaVan28\YuliiaVanchytska.RobotChallenge.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\Source\Repos\JuliaVan28\YuliiaVanchytska.RobotChallenge.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\Source\Repos\JuliaVan28\YuliiaVanchytska.RobotChallenge.Test\obj\Debug\YuliiaVanchytska.RobotChallenge.Test.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\JuliaVan28\YuliiaVanchytska.RobotChallenge.Test\obj\Debug\YuliiaVanchytska.RobotChallenge.Test.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\JuliaVan28\YuliiaVanchytska.RobotChallenge.Test\obj\Debug\YuliiaVanchytska.RobotChallenge.Test.csproj.CopyComplete
+C:\Users\User\Source\Repos\JuliaVan28\YuliiaVanchytska.RobotChallenge.Test\obj\Debug\YuliiaVanchytska.RobotChallenge.Test.dll
+C:\Users\User\Source\Repos\JuliaVan28\YuliiaVanchytska.RobotChallenge.Test\obj\Debug\YuliiaVanchytska.RobotChallenge.Test.pdb

@@ -100,6 +100,31 @@ namespace YuliiaVanchytska.RobotChallenge.Test
         [TestMethod]
         public void TestFindEnemies()
         {
+            string author = "Yuliia Vanchytska";
+            Robot.Common.Robot testsRobot1 = new Robot.Common.Robot()
+            {
+                Energy = 100,
+                Position = new Position(1, 1),
+                OwnerName = author
+            };
+            Robot.Common.Robot testsRobot2 = new Robot.Common.Robot()
+            {
+                Energy = 100, Position = new Position(2, 1), OwnerName = author
+            };
+            Robot.Common.Robot testEnemy1 = new Robot.Common.Robot()
+            {
+                Energy = 100, Position = new Position(1, 1), OwnerName = "Fail"
+            };
+            Robot.Common.Robot testsEnemy2 = new Robot.Common.Robot()
+            {
+                Energy = 100, Position = new Position(2, 1), OwnerName = "Fail"
+            };
+            IList<Robot.Common.Robot> robots = new List<Robot.Common.Robot>()
+ { testsRobot1, testEnemy1, testsEnemy2, testsRobot2 };
+            List<Robot.Common.Robot> enemies = Finder.FindEnemies(robots, author);
+            Robot.Common.Robot resTest = enemies.Find((r) => r.OwnerName == author);
+
+            Assert.IsNull(resTest);
 
         }
     }
